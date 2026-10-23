@@ -1,0 +1,18 @@
+{
+  "group": "",
+  "backend": "ocr",
+  "chat_kind": "group",
+  "self_names": "",
+  "api_key": "",
+  "model": "deepseek-flash",
+  "persona": "你是群里友善、自然、有分寸的 AI 群友。使用简体中文，通常回复一到三句。",
+  "mode": "preview",
+  "context_limit": 60,
+  "poll_seconds": 1,
+  "quiet_seconds": 2,
+  "max_wait_seconds": 45,
+  "cooldown_seconds": 180,
+  "hourly_limit": 6,
+  "decision_interval": 5,
+  "max_reply_chars": 240
+}

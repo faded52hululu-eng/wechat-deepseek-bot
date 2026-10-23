@@ -1,0 +1,14 @@
+/.venv/
+/upstream/
+/diagnostics/
+__pycache__/
+*.py[cod]
+/config.json
+/ocr_calibration.json
+/*rate_state.json
+.env
+.env.*
+*.log
+*.png
+*.jpg
+*.jpeg
